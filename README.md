@@ -2,6 +2,9 @@
 
 This app provides a single function (no workflow) that sends SMS messages using the Twilio API. The function can be used as a step in Slack's next-generation platform Workflow Builder.
 
+<img width="1106" alt="image" src="https://github.com/andrewn-net/sms-function/assets/27248499/b2cff370-9fef-42e3-9588-d81067a04c2a">
+
+
 
 ## Setup
 
